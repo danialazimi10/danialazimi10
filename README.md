@@ -36,7 +36,7 @@ Python
 </p>
 </td>
 <td align="center">
-<img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" width="160"/>
+<img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" width="160"/>
 <p align="center">
 django
 </p>
