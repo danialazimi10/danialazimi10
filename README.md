@@ -88,7 +88,7 @@ PostgreSQL
 
 <br>
 <br>
-<img alt="Contribution Activity" src="https://activity-graph.herokuapp.com/graph?username=danialazimi10&bg_color=000000&color=0095d9&line=6bd600&point=ffffff" width="1000"/>
+<img alt="Contribution Activity" src="https://activity-graph.herokuapp.com/graph?username=danialazimi10&bg_color=#090824&color=0095d9&line=#012413&point=#cad9d1" width="1000"/>
 
 <!-- <p align="center">
 <img src="mern.gif" width="600"/>
