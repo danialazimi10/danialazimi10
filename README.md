@@ -5,7 +5,10 @@
 </p>
 <br>
 
-<p align="center"><img src="https://www.vectorlogo.zone/logos/python/python-official.svg" width="500"/></p>
+<p align="center">
+ <img src="https://www.vectorlogo.zone/logos/python/python-official.svg" width="500"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=danialazimi10&show_icons=true&theme=chartreuse-dark" width="350"/>
+</p>
 
 
 <br>
@@ -52,9 +55,12 @@
 
 <br>
 <br>
-<!--                                                                                                         
-<img alt="Contribution Activity" src="https://activity-graph.herokuapp.com/graph?username=danialazimi10&bg_color=001732&color=ffffff&line=e8fc30&point=ff084e" width="1000"/>
+<img alt="Contribution Activity" src="https://activity-graph.herokuapp.com/graph?username=danialazimi10&bg_color=000000&color=0095d9&line=6bd600&point=ffffff" width="1000"/>
 
-<br> -->
+<!-- <p align="center">
+<img src="mern.gif" width="600"/>
+</p> -->
+<br>
                                             
+                               
 
