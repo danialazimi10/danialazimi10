@@ -26,6 +26,40 @@
  </li>
 </ul>
 
+### Learning
+<table>
+<tr>
+<td align="center">
+<img src="https://www.vectorlogo.zone/logos/python/python-official.svg" width="80"/>
+<p align="center">
+Python
+</p>
+</td>
+<td align="center">
+<img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" width="160"/>
+<p align="center">
+django
+</p>
+</td>
+<td align="center">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" width="80"/>
+<p align="center">
+Git
+ <td align="center">
+<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" width="80"/>
+<p align="center">
+SQLite
+ <td align="center">
+<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="80"/>
+<p align="center">
+PostgreSQL
+</p>
+</td>
+</tr>
+<table>
+ 
+ 
+
 <details>
  <summary>My Stats💹</summary>
 <img src="https://wakatime.com/share/@9b9f332b-8da5-4288-8598-27b8fe015770/57aa9f0b-d427-4bb0-a520-49d08faaac7d.svg" width="350">
