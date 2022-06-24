@@ -27,7 +27,7 @@
 </ul>
 
 ### Learning
-<table class="center">
+<table style="border:1px solid black">
 <tr>
 <td align="center">
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="100"/>
