@@ -6,8 +6,7 @@
 <br>
 
 <p align="center">
- <img src="https://www.vectorlogo.zone/logos/python/python-official.svg" width="500"/>
- <img src="https://github-readme-stats.vercel.app/api?username=danialazimi10&show_icons=true&theme=chartreuse-dark" width="350"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=danialazimi10&show_icons=true&theme=default" width="500"/>
 </p>
 
 
