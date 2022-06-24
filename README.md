@@ -29,29 +29,29 @@
 ### Learning
 <table>
 <tr>
-<td align="bottom">
+<td align="center">
 <img src="https://www.vectorlogo.zone/logos/python/python-official.svg" width="100"/>
-<p align="center">
+<p align="justify">
 Python
 </p>
 </td>
-<td align="bottom">
+<td align="center">
 <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" width="100"/>
-<p align="center">
+<p align="justify">
 django
 </p>
 </td>
-<td align="bottom">
+<td align="center">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" width="100"/>
-<p align="center">
+<p align="justify">
 Git
- <td align="bottom">
+ <td align="center">
 <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" width="100"/>
-<p align="center">
+<p align="justify">
 SQLite
- <td align="bottom">
+ <td align="center">
 <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="100"/>
-<p align="center">
+<p align="justify">
 PostgreSQL
 </p>
 </td>
