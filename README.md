@@ -27,6 +27,7 @@
 <details>
  <summary>My Stats💹</summary>
 <img src="https://wakatime.com/share/@9b9f332b-8da5-4288-8598-27b8fe015770/57aa9f0b-d427-4bb0-a520-49d08faaac7d.svg" width="350">
+<img alt="Github Viewers" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danialazimi10&layout=compact&langs_count=10&theme=buefy">
 <img src="https://wakatime.com/share/@9b9f332b-8da5-4288-8598-27b8fe015770/588f5699-37d9-422a-8630-d8d86694f704.svg" width="350">
 
 </details>
