@@ -31,27 +31,27 @@
 <tr>
 <td align="center">
 <img src="https://www.vectorlogo.zone/logos/python/python-official.svg" width="100"/>
-<p align="justify">
+<p align="center">
 Python
 </p>
 </td>
 <td align="center">
 <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" width="100"/>
-<p align="justify">
+<p align="center">
 django
 </p>
 </td>
 <td align="center">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" width="100"/>
-<p align="justify">
+<p align="center">
 Git
  <td align="center">
 <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" width="100"/>
-<p align="justify">
+<p align="center">
 SQLite
  <td align="center">
 <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="100"/>
-<p align="justify">
+<p align="center">
 PostgreSQL
 </p>
 </td>
