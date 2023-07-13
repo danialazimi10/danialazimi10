@@ -79,10 +79,6 @@ TensorFlow
 OpenCV
 </p>
 </td>
-<td align="center">
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="100"/>
-<p align="center">
-TensorFlow
 </tr>
 <table>
 
