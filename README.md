@@ -53,12 +53,6 @@ git
 <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="100"/>
 <p align="center">
 SQLite
- <td align="center">
-<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="100"/>
-<p align="center">
-PostgreSQL
-</p>
-</td>
 </tr>
 <table>
  
