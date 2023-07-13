@@ -1,9 +1,4 @@
-<p align="center" style="z-index:100">
-<img alt="GitHub followers" width="90" src="https://img.shields.io/github/followers/danialazimi10?style=plastic&color=red">
-<img alt="Github Viewers" width="130" src="https://komarev.com/ghpvc/?username=danialazimi10&style=plastic&color=green">
-<img alt="Github Viewers" width="170" src="https://wakatime.com/badge/user/9b9f332b-8da5-4288-8598-27b8fe015770/project/e84f40d2-ff29-40aa-9a50-0f232e1bb85a.svg">
-</p>
-<br>
+
 
 <p align="center">
  <img src="ezgif.com-gif-maker.gif" width="200;"/>
