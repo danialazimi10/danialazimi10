@@ -12,19 +12,29 @@
 
 
 <br>
-
-## Upcoming activities
+## Previous Activities
 
 <ul>
  <li>
-  Learning the django framework
+  Had some experience in Java and C++
   </li>
  <li>
-  Making a full repository for Data Structure in Python
+  Worked on some Django projects with RESTful APIs
  </li>
  <li>
-  working on a project for Cryptography in Python
+  Gained a good understanding of Data Structures and Designing Algorithms
  </li>
+ <li>
+  Build some Machine Learning models (like the movie recommender system project)
+ </li>
+</ul>
+
+## Activities
+
+<ul>
+ <li>
+  Learning AI and related subjects
+  </li>
 </ul>
 
 ### Learning
