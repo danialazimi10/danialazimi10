@@ -57,6 +57,16 @@ SQLite
 <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="100"/>
 <p align="center">
  docker
+ <td align="center">
+<img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" width="100"/>
+<p align="center">
+NumPy
+ <td align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="100"/>
+ <td align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="100"/>
+<p align="center">
+ Keras
 </tr>
 <table>
 
