@@ -54,10 +54,6 @@ git
 <p align="center">
 SQLite
  <td align="center">
-<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="100"/>
-<p align="center">
- docker
- <td align="center">
 <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" width="100"/>
 <p align="center">
 NumPy
