@@ -1,5 +1,3 @@
-
-
 <p align="center">
  <img src="ezgif.com-gif-maker.gif" width="200;"/>
  <img src="https://github-readme-stats.vercel.app/api?username=danialazimi10&show_icons=true&theme=default" width="500"/>
