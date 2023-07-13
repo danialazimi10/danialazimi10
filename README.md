@@ -30,7 +30,7 @@
   </li>
 </ul>
 
-### Learning
+### Familiar with
 <table>
 <tr>
 <td align="center">
@@ -53,8 +53,15 @@ git
 <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="100"/>
 <p align="center">
 SQLite
+ <td align="center">
+<img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" width="100"/>
+<p align="center">
+ docker
 </tr>
 <table>
+
+### Learning
+
  
  
 
