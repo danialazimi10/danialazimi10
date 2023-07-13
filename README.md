@@ -12,6 +12,7 @@
 
 
 <br>
+
 ## Previous Activities
 
 <ul>
