@@ -59,10 +59,6 @@ SQLite
 NumPy
  <td align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="100"/>
- <td align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="100"/>
-<p align="center">
- Keras
 </tr>
 <table>
 
