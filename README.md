@@ -1,8 +1,6 @@
 
-<br>
 
-
-## Activities
+# Activities
 
 <ul>
  <li>
@@ -66,7 +64,6 @@ OpenCV
 
 
 
-<br>
 
                                                                                         
 <br>  
@@ -86,13 +83,7 @@ OpenCV
 </a>
 
 <br>
-<br>
-<img alt="Contribution Activity" src="https://activity-graph.herokuapp.com/graph?username=danialazimi10&bg_color=#090824&color=0095d9&line=#012413&point=#cad9d1" width="1000"/>
 
-<!-- <p align="center">
-<img src="mern.gif" width="600"/>
-</p> -->
-<br>
                                             
                                
 
