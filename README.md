@@ -5,28 +5,12 @@
 
 <br>
 
-## Previous Activities
-
-<ul>
- <li>
-  Had some experience in Java and C++
-  </li>
- <li>
-  Worked on some Django projects with RESTful APIs
- </li>
- <li>
-  Gained a good understanding of Data Structures and Designing Algorithms
- </li>
- <li>
-  Build some Machine Learning models (like the movie recommender system project)
- </li>
-</ul>
 
 ## Activities
 
 <ul>
  <li>
-  Learning AI and related subjects
+  Research in the field of Artificial Intelligence!
   </li>
 </ul>
 
@@ -85,12 +69,6 @@ OpenCV
 <table>
 
 
-<details>
- <summary>My Stats💹</summary>
-<img src="https://wakatime.com/share/@9b9f332b-8da5-4288-8598-27b8fe015770/57aa9f0b-d427-4bb0-a520-49d08faaac7d.svg" width="350">
-<img alt="Github Viewers" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danialazimi10&layout=compact&langs_count=10&theme=buefy">
-
-</details>
 
 <br>
 
