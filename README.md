@@ -8,6 +8,29 @@
   </li>
 </ul>
 
+
+### AI Tools
+<table>
+<tr>
+<td align="center">
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="100"/>
+<p align="center">
+PyTorch
+</p>
+</td>
+<td align="center">
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="100"/>
+<p align="center">
+TensorFlow
+ <td align="center">
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="100"/>
+<p align="center">
+OpenCV
+</p>
+</td>
+</tr>
+<table>
+
 ### Familiar with
 <table>
 <tr>
@@ -39,31 +62,6 @@ NumPy
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="100"/>
 </tr>
 <table>
-
-### Learning
-<table>
-<tr>
-<td align="center">
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="100"/>
-<p align="center">
-PyTorch
-</p>
-</td>
-<td align="center">
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="100"/>
-<p align="center">
-TensorFlow
- <td align="center">
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="100"/>
-<p align="center">
-OpenCV
-</p>
-</td>
-</tr>
-<table>
-
-
-
 
                                                                                         
 <br>  
